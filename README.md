@@ -1,6 +1,6 @@
 # FDD CDX2
 ## Floppy Disk Drive controller for MSX computer
-Recreated Microsol Tecnologia CDX2 FDD interface.
+Recreated Microsol Tecnologia CDX-2 FDD interface.
 
 ![CDX-2](/photos/cdx-2_03s.jpg)
 
