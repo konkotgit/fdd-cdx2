@@ -4,9 +4,9 @@ Recreated Microsol Tecnologia CDX-2 FDD interface.
 
 #### Test Points
 
-TP1 - PIN 16 (DIRC)
-TP2 - PIN 29 (TG43)
-TP3 - PIN 31 (WD)
+- TP1 - PIN 16 (DIRC)
+- TP2 - PIN 29 (TG43)
+- TP3 - PIN 31 (WD)
 
 J3 must be closed to enable test mode. For normal use J3 must be **open.**
 
