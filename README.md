@@ -24,6 +24,19 @@ Recreated Microsol Tecnologia CDX-2 FDD interface.
 * MANUT (AMT Mamute)
 * TPX 1.02 (TPX - Perifericos)
 
+### ROM vs free BASIC memory
+
+| ROM | Free BASIC Memory |
+| ------------- |:-------------:|
+| Angeisa (Angeisa Eletronica LTDA)  | 23430  |
+| CDX-2 (Microsol Tecnologia)  | 23430  |
+| DDX 1.0 (Digital Design)  | 20304  |
+| DMX 1.2 (Conector Informatica LTDA.) | 20304  |
+| LIFTROM (Liftrom Informatica)  | 20304  |
+| MANUT (AMT Mamute)  | 23430  |
+| TPX 1.02 (TPX - Perifericos)  | 23430  |
+| FAST!DiskROM  | 25471  |
+
 #### Test Points
 
 - TP1 - PIN 16 (DIRC)
